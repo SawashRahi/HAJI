@@ -3,4 +3,4 @@ os.system('clear')
 print('[•] Checking Updates...')
 os.system('git pull')
 os.system('xdg-open https://t.me/Afg_Black001')
-import rahi
+import sawa1
