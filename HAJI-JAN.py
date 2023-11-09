@@ -6,4 +6,4 @@ os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install ch
 os.system('pip uninstall requests')
 os.system ('pip install requests')
 os.system('xdg-open https://t.me/Afg_Black001')
-import t12
+import rahi
